@@ -1,0 +1,57 @@
+#divId1{
+    color: black;
+    /* background-color: green; */
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+#inputFieldForTask{
+
+    /* width: 200px; */
+    height: 50px;
+}
+
+#rowForFieldAndBtn{
+    background-color: pink;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#addTaskBtn{
+
+    background-color: blue;
+    color: white;
+    font-size: 20;
+    height: 50px;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+    /* display: inline-block; */
+}
+
+.addedDiv{
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+    
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+    /* padding-left: 50%; */
+    word-break: break-all;
+
+}
+
+.deleteButton{
+    background-color: red;
+    word-break: normal;
+
+
+   
+
+}
